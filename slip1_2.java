@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Write a Java program to accept the details of Employee (Eno, EName, Designation, 
+Salary) from a user and store it into the database. (Use Swing) 
  */
 package com.mycompany.practical_slip;
 
