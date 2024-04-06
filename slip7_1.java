@@ -1,6 +1,8 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Write a java program that implements a multi-thread application that has three threads. 
+First thread generates random integer number after every one second, if the number is 
+even; second thread computes the square of that number and prints it. If the number is 
+odd, the third thread computes the cube of that number and prints it. 
  */
 package com.mycompany.practical_slip;
 
