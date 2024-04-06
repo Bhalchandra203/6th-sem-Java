@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Write a java program to accept ‘N’ Integers from a user store them into LinkedList 
+Collection and display only negative integers.
  */
 package com.mycompany.javaslip;
 
