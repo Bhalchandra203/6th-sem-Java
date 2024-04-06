@@ -1,6 +1,8 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Write a Java program using Multithreading for a simple search engine. Accept a string 
+to be searched. Search the string in all text files in the current folder. Use a separate 
+thread for each file. The result should display the filename and line number where the 
+string is found.
  */
 package com.mycompany.javaslip;
 
