@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Write a java program using Multithreading to display the number’s between 1 to 100 
+continuously in a JTextField by clicking on JButton. (Use Runnable Interface & 
+Swing).
  */
 package com.mycompany.javaslip;
 
