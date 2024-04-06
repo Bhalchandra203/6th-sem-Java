@@ -1,6 +1,9 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ 2. Write a java program for the following:
+i. To create a Product (Pid, Pname, Price) table.
+ii. Insert at least five records into the Product table.
+iii. Display all the records from a Product table. 
+Assume Database is already created
  */
 package com.mycompany.practical_slip;
 
