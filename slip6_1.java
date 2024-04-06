@@ -1,6 +1,8 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Write a Java program to accept ‘n’ integers from the user and store them in a Collection. 
+Display them in the sorted order. The collection should not accept duplicate elements. 
+(Use a suitable collection). Search for a particular element using predefined search 
+method in the Collection framework
  */
 package com.mycompany.practical_slip;
 
