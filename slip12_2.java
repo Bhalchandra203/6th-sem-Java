@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Write a Java Program to create a PROJECT table with field’s project_id, Project_name, 
+Project_description, Project_Status. Insert values in the table. Display all the details of 
+the PROJECT table in a tabular format on the screen.(using swing). 
  */
 package com.mycompany.javaslip;
 
