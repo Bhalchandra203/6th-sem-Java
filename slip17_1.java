@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Write a java program to accept ‘N’ integers from a user. Store and display integers in 
+sorted order having proper collection class. The collection should not accept duplicate 
+elements.
  */
 package com.mycompany.javaslip;
 
