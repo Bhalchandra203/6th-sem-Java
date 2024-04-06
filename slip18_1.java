@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Write a java program using Multithreading to display all the vowels from a given 
+String. Each vowel should be displayed after every 3 seconds. 
  */
 package com.mycompany.javaslip;
 
