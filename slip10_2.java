@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+2. Write a Java program to display first record from student table (RNo, SName, Per) onto 
+the TextFields by clicking on button. (Assume Student table is already created)
  */
 package com.mycompany.javaslip;
 
