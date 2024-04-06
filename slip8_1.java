@@ -1,6 +1,11 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+1. Write a java program to define a thread for printing text on output screen for ‘n’ 
+number of times. Create 3 threads and run them. Pass the text ‘n’ parameters to the 
+thread constructor. 
+ Example: 
+i. First thread prints “COVID19” 10 times. 
+ii. Second thread prints “LOCKDOWN2020” 20 times 
+iii. Third thread prints “VACCINATED2021” 30 times 
  */
 package com.mycompany.practical_slip;
 
