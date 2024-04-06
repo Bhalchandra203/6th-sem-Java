@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+1. Write a java program to create a TreeSet, add some colors (String) and print out the 
+content of TreeSet in ascending order
  */
 package com.mycompany.javaslip;
 
