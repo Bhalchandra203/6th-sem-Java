@@ -1,6 +1,9 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+2. Write a Java program to store city names and their STD codes using an appropriate 
+collection and perform following operations:
+i. Add a new city and its code (No duplicates) 
+ii. Remove a city from the collection 
+iii. Search for a city name and display the code
  */
 package com.mycompany.practical_slip;
 
