@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+1. Write a Java program to create a thread for moving a ball inside a panel vertically. The 
+ball should be created when the user clicks on the start button (Use Swing).
  */
 package com.mycompany.practical_slip;
 
