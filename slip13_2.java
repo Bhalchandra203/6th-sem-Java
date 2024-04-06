@@ -1,6 +1,8 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Write a Java program to show lifecycle (creation, sleep, and dead) of a thread. Program 
+should print randomly the name of thread and value of sleep time. The name of the 
+thread should be hard coded through constructor. The sleep time of a thread will be a 
+random integer in the range 0 to 4999.
  */
 package com.mycompany.javaslip;
 
