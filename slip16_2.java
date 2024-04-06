@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Write a Java program to accept the details of Teacher (TNo, TName, Subject). Insert at
+least 5 Records into Teacher Table and display the details of Teacher who is teaching 
+“JAVA” Subject. (Use PreparedStatement Interface) 
  */
 package com.mycompany.javaslip;
 
