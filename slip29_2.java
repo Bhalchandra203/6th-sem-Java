@@ -1,6 +1,8 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+2. Write a Java program to create LinkedList of integer objects and perform the following: 
+i. Add element at first position 
+ii. Delete last element 
+iii. Display the size of link list 
  */
 package com.mycompany.javaslip;
 
