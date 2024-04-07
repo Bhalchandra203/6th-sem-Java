@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Write a java program using Multithreading to accept a String from a user and display 
+each vowel from a String after every 3 seconds
  */
 package com.mycompany.javaslip;
 
