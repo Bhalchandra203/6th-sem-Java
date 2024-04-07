@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Write a java program using Multithreading to solve producer consumer problem in 
+which a producer produces a value and consumer consume the value before producer 
+generate the next value. (Hint: use thread synchronization)
  */
 package com.mycompany.javaslip;
 
