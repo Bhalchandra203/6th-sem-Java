@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Write a Menu Driven program in Java for the following: Assume Employee table with 
+attributes (ENo, EName, Salary) is already created. 1. Insert 2. Update 3. Display 4. 
+Exit
  */
 package com.mycompany.javaslip;
 
