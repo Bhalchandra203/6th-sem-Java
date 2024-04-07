@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+1. Write a java program to accept ‘N’ Subject Names from a user store them into 
+LinkedList Collection and Display them by using Iterator interface.
  */
 package com.mycompany.javaslip;
 
