@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Write a java program using Multithreading to scroll the text from left to right 
+continuously (Use Swing). 
  */
 package com.mycompany.javaslip;
 
