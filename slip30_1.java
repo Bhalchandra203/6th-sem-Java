@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+1. Write a java program using Multithreading to demonstrate drawing Indian flag (Use 
+Swing
  */
 package com.mycompany.javaslip;
 
