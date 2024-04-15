@@ -1,13 +1,43 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.mycompany.javaslip;
+ 1. Write a JSP program to display the details of Patient (PNo, PName, Address, age, 
+disease) in tabular form on browser
+ 
 
-/**
- *
- * @author Admin
- */
-public class slip3_1 {
-    
-}
+
+
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <h1>Patient</h1>
+        <table border="1">
+            <tr>
+                <th>PNo</th>
+                <th>PName</th>
+                <th>Address</th>
+                <th>age</th>
+                <th>disease</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>John</td>
+                <td>xyz</td>
+                <td>45</td>
+                <td>kovid</td>
+            </<tr>
+            <tr>
+                <td>2</td>
+                <td>Brock</td>
+                <td>abc</td>
+                <td>48</td>
+                <td>canser</td>
+            </<tr>
+        </table>
+    </body>
+</html>
+*/
