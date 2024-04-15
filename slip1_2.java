@@ -39,7 +39,7 @@ class EmpApp {
         clear = new JButton("Clear");
         insert = new JButton("insert");
         
-        Connection conn = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres", "postgres", "postgres");
+        Connection conn = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres", "postgres", "bhalchandra");
         
         insert.addActionListener((ActionEvent e) -> {
             try {
