@@ -10,7 +10,7 @@
     </head>
     <body>
         <h1>Calculate sum of fist and last digit?</h1>
-        <form action="S14Q2.jsp" method="post">
+        <form action="slip14_2.jsp" method="post">
             Enter a number: <input type="text" name="num">
             <input type="submit" value="sum?">
         </form>
