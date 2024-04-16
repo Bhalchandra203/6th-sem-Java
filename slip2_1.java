@@ -4,23 +4,27 @@ display them in ascending order.
  */
 package com.mycompany.practical_slip;
 
-import java.util.*;
-
+import java.util.*;;
 public class slip2_1
-{
-    public static void main(String[] args) {
-        Set<String> names = new HashSet<>();
-        Scanner sc = new Scanner(System.in);
+ {
+    public static void main(String[] args) 
+ {
+        HashSet<String> friends = new HashSet<>();
+
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter N :");
+        int n  = scan.nextInt();
+
+        scan.nextLine();
+        for(int i = 0 ; i<n;i++)
+        {
+            System.out.println("Enter name :");
+            String name = scan.nextLine();
+            friends.add(name);
+        }
+
+        TreeSet<String> tree = new TreeSet<>(friends);
+        System.out.println(tree);
         
-        System.out.println("How many names:");
-        int n = sc.nextInt();
-        sc.nextLine();
-        
-        System.out.println("Enter three names:");
-        for(int i=0; i<n; i++)
-            names.add(sc.nextLine());
-        
-        TreeSet<String> sortedNames = new TreeSet<>(names);
-        System.out.println(sortedNames);       
     }
 }
