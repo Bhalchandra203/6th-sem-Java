@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Is Perfect?</h1>
-        <form action="S12Q1.jsp" method="post">
+        <form action="slip12_1.jsp" method="post">
             Enter a number: <input type="text" name="num">
             <input type="submit" value="is perfect?">
         </form>
