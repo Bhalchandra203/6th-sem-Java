@@ -5,27 +5,60 @@ Swing)
 package com.mycompany.javaslip;
 
 
-import java.util.*;
+import javax.swing.*;
+import java.awt.*;
+
+class TempleDrawing extends JFrame 
+{
+
+    public TempleDrawing()
+ {
+        setTitle("Simple Temple Drawing");
+        setSize(300, 300);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
+
+        TemplePanel templePanel = new TemplePanel();
+        add(templePanel);
+        setVisible(true);
+    }
+}
+
+class TemplePanel extends JPanel
+ {
+
+    @Override
+    protected void paintComponent(Graphics g)
+ {
+        super.paintComponent(g);
+        drawTemple(g);
+    }
+
+    private void drawTemple(Graphics g)
+  {
+        g.setColor(Color.BLACK);
+        g.fillRect(100, 100, 100, 100); // Main structure
+        
+        g.setColor(Color.WHITE);
+        g.fillRect(130, 150, 40, 50); // Main Door
+        
+        g.setColor(Color.RED);
+        int[] xPoints = {100, 150, 200}; // Triangle for roof
+        int[] yPoints = {100, 50, 100};
+        g.fillPolygon(xPoints, yPoints, 3);
+
+        g.setColor(Color.ORANGE);
+        g.fillRect(150, 40, 20, 10); // Flag
+    }
+}
 
 public class slip20_2
 {
-    public static void main(String[] args) {
-        List<Integer> l = new LinkedList<>();
-        Scanner sc = new Scanner(System.in);
-        
-        System.out.println("How many values:");
-        int n = sc.nextInt();
-        
-        System.out.println("Enter " + n + " values:");
-        for(int i=0; i<n; i++)
-            l.add(sc.nextInt());
-        
-        System.out.println("Negative integers are:");
-        Iterator itr = l.iterator();
-        while(itr.hasNext()) {
-            int num = (int)itr.next();
-            if(num < 0)
-                System.out.println(num);
-        }
+    public static void main(String[] args) 
+ {
+        SwingUtilities.invokeLater(() ->
+        {
+            new TempleDrawing();
+        });
     }
 }
