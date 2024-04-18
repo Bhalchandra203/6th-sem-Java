@@ -32,14 +32,21 @@ public class slip3_2 {
             switch (ch) {
                 case 1:
                     System.out.println("Enter name.");
-                    names.addLast(sc.nextLine());
+                    names.add(sc.nextLine());
                     break;
                 case 2:
-                    names.removeFirst();
+                    names.remove();
                     break;
-                case 3:
+                case 3:System.out.println("Real order");
+                    Iterator itr = names.iterator();
+                    while (it.hasNext()) 
+                    {
+                        System.out.println(itr.next());
+
+                    }
                     Iterator it = names.descendingIterator();
-                    while (it.hasNext()) {
+                    while (it.hasNext()) 
+                    {
                         System.out.println(it.next());
 
                     }
